@@ -1,0 +1,47 @@
+
+/* Type-3 - EXTERNAL CSS */
+p{
+    color:chocolate;
+    background-color: darkblue !Important;
+}
+
+body{
+    background-color: rgb(red, green, blue);
+    margin: 15px;
+    border: 8px red solid;
+    padding 3opx;
+    opacity: 100px;
+    font: size 16px;
+    color:brown;
+}
+
+#bft3{
+    color:brown;
+}
+#bft5{
+    color:rgb(50, 42, 165);
+}
+#para1{
+    color:crimson;
+    text-align:center;
+}
+.nift{
+    background-color:coral
+}
+#div1{
+    border-width 3px;
+    border-color:red;
+    border-style:double;
+    
+}
+#div2{
+    border:orange 5px solid;
+
+}
+#span1{
+    font: size 30px;
+    text-decoration :line-through
+}
+#span3{
+     vertical-align:sub;
+}

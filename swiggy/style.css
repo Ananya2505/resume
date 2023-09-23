@@ -1,0 +1,49 @@
+*{
+margin: 0px;
+padding:0px;
+box-sizing: border-box;
+}
+
+/*  Common Styles Starts */
+.hr1{
+    border: 2px;
+    border-color: red;
+    /* border-style: solid; */
+}
+/* Common Styles Ends */
+
+/* navigation bar styles start here */
+
+#navbar{
+    display:flex;
+    /* justify-content: space-evenly; */
+    height:80px;
+    background-color: rgb(116, 114, 114);
+    color:white;
+    align-items:centre; vertical-alignment
+    text-align:centre; horizontal-alignment
+    
+
+}
+
+#logo , #navbar, #socialmedia{
+    /* border: 1px solid red;  */
+
+}
+#logo{
+    width: 10%;
+
+}
+#navlinks{
+    width: 70%;
+}
+#socialmedia{
+    width: 20%;
+}
+#logoimg{
+ height: 55px;
+ border-radius: 20px;
+}
+
+
+/* navigation bar styles ends here */
